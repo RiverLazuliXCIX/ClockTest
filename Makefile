@@ -41,7 +41,7 @@ USERFLAGS   :=
 USERASFLAGS :=  
 USERLDFLAGS :=  
 USERLIBDIRS :=  dependencies
-USERLIBS    :=  -Lagbabi
+USERLIBS    :=  F:/_Dev/Butano_Projects/ClockTest/dependencies/libagbabi.a
 USERBUILD   :=  
 EXTTOOL     :=  
 
