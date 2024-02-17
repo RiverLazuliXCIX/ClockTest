@@ -27,7 +27,7 @@
 #---------------------------------------------------------------------------------------------------------------------
 TARGET      :=  $(notdir $(CURDIR))
 BUILD       :=  build
-LIBBUTANO   :=  F:/Butano/butano-13.15.0/butano
+LIBBUTANO   :=  F:/Butano/butano-17.1.0/butano
 PYTHON      :=  python
 SOURCES     :=  src
 INCLUDES    :=  include dependencies/include
@@ -35,13 +35,13 @@ DATA        :=
 GRAPHICS    :=  graphics
 AUDIO       :=  audio
 DMGAUDIO    :=  dmg_audio
-ROMTITLE    :=  ROM TITLE
-ROMCODE     :=  SBTP
+ROMTITLE    :=  ClockTest
+ROMCODE     :=  ACTE
 USERFLAGS   :=  
 USERASFLAGS :=  
 USERLDFLAGS :=  
 USERLIBDIRS :=  dependencies
-USERLIBS    :=  -Lagbabi
+USERLIBS    :=  
 USERBUILD   :=  
 EXTTOOL     :=  
 

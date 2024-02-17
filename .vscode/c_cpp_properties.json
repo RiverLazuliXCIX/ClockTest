@@ -5,7 +5,8 @@
             "includePath": [
                 "F:/Butano/butano-13.15.0/butano/include",
                 "${workspaceFolder}/**",
-                "dependencies/include"
+                "dependencies/include",
+                "F:/Butano/butano-13.15.0/common/include"
             ],
             "cStandard": "gnu17",
             "cppStandard": "gnu++20",
